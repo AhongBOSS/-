@@ -15,13 +15,8 @@ Portfolio：
 WebScraper_Ahong2_MySQL (reptile+MySQL)
 
 
+@Taichung, Taiwan
 
-學歷:
-臺中市立龍津高級中等學校  畢
-宜寧高中  就讀
-
-@Taichung, Taiwan 
-contact :boyxvampy@gmail.com
-Discord : 阿宏#3950 
-Facebook : https://www.facebook.com/profile.php?id=100003503364755
-github : https://github.com/xvampy/-/tree/main
+contact :ahongboss12@gmail.com 
+Instagram :ahongboss0102 
+Discord : 阿宏#3950
