@@ -17,6 +17,7 @@ WebScraper_Ahong2_MySQL (reptile+MySQL)
 
 @Taichung, Taiwan
 
+學歷: 臺中市立龍津高級中等學校 畢 宜寧高中 畢 國立臺中科技大學 就讀
 contact :ahongboss12@gmail.com 
 Instagram :ahongboss0102 
 Discord : 阿宏#3950
